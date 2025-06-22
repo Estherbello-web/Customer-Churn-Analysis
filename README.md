@@ -1,4 +1,3 @@
-# Customer-Churn-Analysis
 # Veritas Bank – Customer Churn Analysis
 
 This project focuses on analyzing customer churn patterns at Veritas Bank using Microsoft SQL Server and Power BI. It aims to uncover key customer segments, churn drivers, and retention opportunities through data modeling, DAX measures, and interactive dashboards.
